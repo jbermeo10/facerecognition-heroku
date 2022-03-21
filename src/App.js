@@ -10,9 +10,6 @@ import ImageLinkForm from './components/imageLinkForm/ImageLinkForm';
 import Rank from './components/rank/Rank';
 import './App.css';
 
-// // d96509c073e640dc98238149d6c4fc34 another API key that I have
-// let app = new Clarifai.App({apiKey: '5b03a67ea9fc4b528a408c4c2e7fe778'});
-
 const particleOptions = {
   particles: {
     number: {
